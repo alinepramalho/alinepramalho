@@ -4,3 +4,4 @@
 - ✨ Possui mais de 7 anos de experiência em bancos e áreas comerciais de atendimento ao clientes e no momento estou fazendo uma transição de carreira para TI, com foco em backend.
 
 - ⚡ Fun fact: Eu sou mãe de um adolescente apaixonado por tecnologia, que está me ajudando nesse processo de aprendizado.
+- Meu LinkedIn: https://www.linkedin.com/in/alinepramalho/
